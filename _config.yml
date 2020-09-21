@@ -95,8 +95,7 @@ analytics:
 author:
   name             : "Yellow Flower"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[B.S. Computer Engineering, Chonnam National University](https://ce.jnu.ac.kr)   
-  M.S."
+  bio              : "[B.S. Computer Engineering, Chonnam National University](https://ce.jnu.ac.kr)\n\nM.S."
   location         : "Gwangju, KR"
   email            :
   links:
