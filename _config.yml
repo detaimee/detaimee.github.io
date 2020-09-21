@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "DeTaimer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "B.S. Computer Engineering Major, Chonnam National University"
+  bio              : "B.S. [Link]http://ce.jnu.ac.kr/ Computer Engineering, Chonnam National University", "M.S"
   location         : "Gwangju, KR"
   email            :
   links:
