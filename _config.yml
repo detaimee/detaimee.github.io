@@ -132,13 +132,13 @@ footer:
       # url: 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/detaimee"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: 
+      url: "https://www.instagram.com/detaimer/" 
 
 
 # Reading Files
