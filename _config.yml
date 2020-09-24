@@ -99,9 +99,9 @@ author:
   location         : "Gwangju, KR"
   email            :
   links:
-    - label: "Email"
+    - label: "rkdud8727@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rkdud8727@gmail.com"
+      # url: "rkdud8727@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
